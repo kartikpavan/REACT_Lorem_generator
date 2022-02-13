@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# Deployed using netlify 
+https://lorem-ipsum-gen-vdkp.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![sd](https://user-images.githubusercontent.com/81632171/153723723-3594aae2-8c45-4efd-bc8f-488e25db3633.png)
